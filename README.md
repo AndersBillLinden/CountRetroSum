@@ -3,15 +3,13 @@
 A lightweight Chrome extension that lets you count points in the page
 https://retro.goagilexpress.com/
 
-## installation
+## Installation
 
 Unzip files into a folder in a safe location.
 
-### developer mode
+Enable developer mode by going to chrome://extensions and switch the toggle to ON
 
-Open chrome://extensions and switch the toggle to ON
-
-### add plugin
+### Add plugin
 
 In the three dot menu, go to extensions -> manage extensions
 
@@ -21,6 +19,6 @@ Add the folder. You will see a new plugin in the list.
 
 In the toolbar, you will need to pin the plugin to have a button in the toolbar
 
-## operation
+## Operation
 
 To count votes, press the button
